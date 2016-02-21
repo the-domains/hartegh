@@ -1,0 +1,28 @@
+name: hartegh
+favicon: null
+layout_spectrum: 0.01578849693760276
+typography_spectrum: 0.3496396450791508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6953393963631243
+  lightness: 0.8216106239706278
+  saturation: 0.4642133293673396
+  rhythmicContrast: 0.6083326837979257
+purpose: []
